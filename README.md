@@ -7,7 +7,43 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [inventory management system](https://final-ivts-seven.vercel.app/)
+### 💼 Work
+🔭 I’m currently working on  
+**Inventory Management System**  
+[final-ivts-seven.vercel.app](https://final-ivts-seven.vercel.app/)
+
+👯 I’m looking to collaborate on  
+**Web design & fullstack projects**  
+(React, Node.js, Database integration)
+
+🤝 I’m looking for help with  
+**Payment API integration in Mongolia**  
+(Khan Bank, Golomt → Stripe, PayPal)
+
+🌱 I’m currently learning  
+**Advanced frameworks & tools:**  
+React, Docker, PostgreSQL/PostGIS
+
+💬 Ask me about  
+**React, Vue, GSAP, Python, SQL**
+
+📫 How to reach me  
+📧 sb9462008@gmail.com  
+📱 [85255466](tel:85255466)  
+🌐 [Facebook](https://facebook.com/100080207476756)
+
+👨‍💻 All of my projects are available at  
+**Portfolio link (to be added)**
+
+📝 I regularly write articles on  
+**Blog link (to be added)**
+
+📄 Know about my experiences  
+**Resume link (to be added)**
+
+⚡ Fun fact  
+I think I am funny 😄
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
